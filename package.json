@@ -1,0 +1,17 @@
+{
+  "name": "metaballs",
+  "version": "1.0.0",
+  "description": "Multicolored metaballs in HTML5 canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metaballs",
+    "canvas",
+    "html5",
+    "javascript"
+  ],
+  "author": "Pekka Laaksonen",
+  "license": "ISC"
+}
