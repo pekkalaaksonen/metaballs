@@ -29,8 +29,8 @@ function createBall (size, ballColor) {
     let sqr = (x - center) * (x - center) + (y - center) * (y - center)
     color = radius / sqr - (sqr / size / (size / 20))
 
-    if (color < 0) { color = 0 };
-    if (color > 255) { color = 255 };
+    // if (color < 0) { color = 0 };
+    // if (color > 255) { color = 255 };
 
     switch (ballColor) {
       case 1:
